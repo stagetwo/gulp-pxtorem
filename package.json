@@ -15,7 +15,7 @@
   "dependencies": {
     "gulp-util": "^3.0.3",
     "postcss": "^4.0.3",
-    "postcss-pxtorem": "git://github.com/stagetwo/postcss-pxtorem.git",
+    "postcss-pxtorem": "https://github.com/stagetwo/postcss-pxtorem.git",
     "through2": "^0.6.3"
   },
   "keywords": [
